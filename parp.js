@@ -76,18 +76,4 @@ global.api.searchInText = function(text) {
   }
   return ans;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                                                
+              
